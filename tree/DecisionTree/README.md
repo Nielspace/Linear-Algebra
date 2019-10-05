@@ -6,7 +6,7 @@ Coding a decision tree classifier from scratch using just numpy and pandas.
 
 ## Dependencies
 
-- python                    3.5.3
+- python                    3.7
 - numpy                     1.12.1
 - pandas                    0.20.1
 - matplotlib                2.0.2
